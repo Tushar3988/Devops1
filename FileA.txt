@@ -1,1 +1,2 @@
 File A
+New change to file A
